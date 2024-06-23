@@ -1,4 +1,4 @@
-function introduction(name = "Aki") {
+function introduction(name = "Aki,Samip") {
     return `Hi, my name is ${name}.`;
   }
   function introductionWithLanguage(name = "Aki", language = "Ember.js") {
